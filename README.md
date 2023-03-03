@@ -2,7 +2,7 @@
 
 This chat analysis work on 12 hour time format.
 
-<a href = "https://captain785-whatsapp-chat-analysis-chat-analyzer-jwqn74.streamlit.app/" target="_blank"> Simulation link </a>
+<a href = "https://suddhasattwakhan-whatsapp-chat-analyzer-chat-analyzer-mvrbsl.streamlit.app/" target="_blank"> Simulation link </a>
 
 ### Features:
 - Analysis with respect to all or for particular user
